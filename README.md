@@ -40,7 +40,7 @@ Enter a character’s name (full or partial) in the search bar and find out all 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/myseriousaccount/RickAndMorty-SearchOrigin.git
+   git clone https://github.com/myseriousaccount/rick-and-morty-search.git
 2. Open index.html in your browser.
 3. Enjoy exploring the multiverse!
 
